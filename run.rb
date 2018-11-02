@@ -1,5 +1,6 @@
 require 'pry' # allows you to run binding.pry
-require_relative 'classes/example.rb'
+require 'require_all'
+require_all 'classes'
 
 example = Example.new
 
