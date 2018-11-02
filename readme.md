@@ -1,7 +1,8 @@
 # Ruby Practice
 
 ### Programming is all about trying new things! Use this empty repository to create something.
-### Are you more into food than you are Pokemon? Try creating a recipe class. The world is your oyster!
+
+Are you more into food than you are Pokemon? Try creating a recipe class. The world is your oyster!
 
 Run ```bundle install``` after you clone the repo!
 
