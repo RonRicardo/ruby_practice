@@ -1,5 +1,8 @@
 require 'pry' # allows you to run binding.pry
+require_relative 'classes/example.rb'
 
-puts 'hello world'
+example = Example.new
+
+example.say_hi
 
 binding.pry
